@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "json-serve": "^0.1.0",
-     "json-server": "^0.17.1",
+    "json-server": "^0.17.1",
     "nodemon": "^3.1.4"
   }
 }
